@@ -1,4 +1,4 @@
-group 'ps.police.plugins'
+
 version = currentVersion
 
 buildscript {
